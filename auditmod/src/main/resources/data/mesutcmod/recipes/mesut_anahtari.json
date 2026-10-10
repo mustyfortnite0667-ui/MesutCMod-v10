@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["ABC", "DND", " E "],
+  "key": {
+    "A": {"item": "mesutcmod:kaya_kirik_muhru"},
+    "B": {"item": "mesutcmod:karanlik_cekirdek"},
+    "C": {"item": "mesutcmod:eski_muhur_parcasi"},
+    "D": {"item": "minecraft:amethyst_shard"},
+    "N": {"item": "minecraft:nether_star"},
+    "E": {"item": "mesutcmod:bilinmeyen_kristal"}
+  },
+  "result": {"item": "mesutcmod:mesut_anahtari", "count": 1}
+}

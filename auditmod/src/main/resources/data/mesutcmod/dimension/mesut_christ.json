@@ -1,0 +1,30 @@
+{
+  "type": "mesutcmod:mesut_christ",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "layers": [
+        {
+          "height": 1,
+          "block": "minecraft:bedrock"
+        },
+        {
+          "height": 3,
+          "block": "minecraft:stone"
+        },
+        {
+          "height": 1,
+          "block": "minecraft:sand"
+        },
+        {
+          "height": 60,
+          "block": "minecraft:water"
+        }
+      ],
+      "biome": "minecraft:deep_ocean",
+      "lakes": false,
+      "features": false,
+      "structure_overrides": []
+    }
+  }
+}

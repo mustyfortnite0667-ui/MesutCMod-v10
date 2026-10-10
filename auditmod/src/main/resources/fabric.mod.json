@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "mesutcmod",
+  "version": "${version}",
+  "name": "MesutCMod",
+  "description": "Ahmet Kaya boss ritual mod",
+  "authors": ["Me!"],
+  "license": "CC0-1.0",
+  "icon": "assets/mesutcmod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["net.friends.mesutcmod.MesutCMod"],
+    "client": ["net.friends.mesutcmod.client.MesutcmodClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

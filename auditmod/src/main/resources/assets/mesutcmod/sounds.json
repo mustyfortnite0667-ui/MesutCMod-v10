@@ -1,0 +1,18 @@
+{
+  "hopes_and_dreams": {
+    "sounds": [
+      {
+        "name": "mesutcmod:hopes_and_dreams",
+        "stream": true
+      }
+    ]
+  },
+  "once_upon_a_time": {
+    "sounds": [
+      {
+        "name": "mesutcmod:once_upon_a_time",
+        "stream": true
+      }
+    ]
+  }
+}

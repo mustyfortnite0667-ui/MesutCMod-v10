@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {"min": 4, "max": 8},
+      "entries": [
+        {"type":"minecraft:item","name":"minecraft:diamond","weight":18,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":6}}]},
+        {"type":"minecraft:item","name":"minecraft:emerald","weight":12,"functions":[{"function":"minecraft:set_count","count":{"min":4,"max":12}}]},
+        {"type":"minecraft:item","name":"minecraft:gold_block","weight":9,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":6}}]},
+        {"type":"minecraft:item","name":"minecraft:netherite_ingot","weight":4,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":2}}]},
+        {"type":"minecraft:item","name":"minecraft:ancient_debris","weight":5,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":3}}]},
+        {"type":"minecraft:item","name":"minecraft:golden_apple","weight":6,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":3}}]},
+        {"type":"minecraft:item","name":"minecraft:enchanted_golden_apple","weight":2,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":1}}]},
+        {"type":"minecraft:item","name":"minecraft:nether_star","weight":1,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":1}}]},
+        {"type":"minecraft:item","name":"minecraft:amethyst_block","weight":8,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+        {"type":"minecraft:item","name":"minecraft:ender_pearl","weight":7,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":6}}]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Boss music hook:
+Place your legally obtained/authorized audio file here:
+assets/mesutcmod/sounds/hopes_and_dreams.ogg
+
+The mod registers mesutcmod:hopes_and_dreams and plays it during the Kaya boss fight.
